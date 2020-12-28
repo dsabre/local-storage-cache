@@ -1,6 +1,9 @@
 # local-storage-cache
 Npm module for use the local storage as a cache
 
+## Dependencies
+Moment.js: https://momentjs.com/
+
 ## Methods
 The class exposes these methods:
 
@@ -26,9 +29,6 @@ Flush the entire bucket from local storage.
 
 #### `flushExpired()`
 Flush expired items from bucket.
-
-## Dependencies
-Moment.js: https://momentjs.com/
 
 ## Thanks
 This class is inspired by:
