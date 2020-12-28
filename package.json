@@ -1,5 +1,5 @@
 {
-  "name": "local-storage-cache",
+  "name": "@raniel/local-storage-cache",
   "version": "1.0.0",
   "description": "Module for use the local storage as a cache",
   "main": "index.js",
