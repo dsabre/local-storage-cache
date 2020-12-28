@@ -1,0 +1,27 @@
+{
+  "name": "local-storage-cache",
+  "version": "1.0.0",
+  "description": "Module for use the local storage as a cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/raniel86/local-storage-cache.git"
+  },
+  "keywords": [
+    "localstorage",
+    "cache",
+    "javascript"
+  ],
+  "author": "Daniele Sabre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raniel86/local-storage-cache/issues"
+  },
+  "homepage": "https://github.com/raniel86/local-storage-cache#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
