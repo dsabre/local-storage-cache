@@ -1,8 +1,16 @@
-# local-storage-cache
+# Local Storage Cache
+
 Npm module for use the local storage as a cache
 
+
 ## Dependencies
-Moment.js: https://momentjs.com/
+[Moment.js](https://momentjs.com/)
+## Installation
+
+```bash
+  npm i @raniel/local-storage-cache
+```
+
 
 ## Methods
 The class exposes these methods:
@@ -30,7 +38,9 @@ Flush the entire bucket from local storage.
 #### `flushExpired()`
 Flush expired items from bucket.
 
+
 ## Thanks
+
 This class is inspired by:
 
-lscache: https://www.npmjs.com/package/lscache
+[lscache](https://www.npmjs.com/package/lscache)
