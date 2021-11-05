@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/raniel86/local-storage-cache.git"
+    "url": "git+ssh://git@github.com/dsabre/local-storage-cache.git"
   },
   "keywords": [
     "localstorage",
     "cache",
     "javascript"
   ],
-  "author": "Daniele Sabre (https://github.com/raniel86)",
+  "author": "Daniele Sabre (https://github.com/dsabre)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/raniel86/local-storage-cache/issues"
+    "url": "https://github.com/dsabre/local-storage-cache/issues"
   },
-  "homepage": "https://github.com/raniel86/local-storage-cache#readme",
+  "homepage": "https://github.com/dsabre/local-storage-cache#readme",
   "dependencies": {
     "moment": "^2.29.1"
   }
