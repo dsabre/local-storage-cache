@@ -11,7 +11,7 @@ Npm module for use the local storage as a cache
 ## Installation
 
 ```bash
-  npm i @raniel/local-storage-cache
+  npm i @dsabre/local-storage-cache
 ```
     
     
